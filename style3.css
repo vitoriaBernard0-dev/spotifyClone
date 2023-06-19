@@ -168,7 +168,19 @@ body {
   .cel {
     width: 350px;
   }
-  
+  .questão{
+    text-align: left;
+    color: black;
+    font-weight: bold;
+  }
+  .perfil{
+    text-align: left;
+    color: black;
+  }
+  .numero{
+    font-size: 10px;
+    margin-right: 180px;
+  }
   a {
     text-decoration: none;
     color: #00a8ff;
