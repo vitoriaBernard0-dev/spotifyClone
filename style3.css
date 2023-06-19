@@ -183,10 +183,12 @@ body {
   }
   a {
     text-decoration: none;
-    color: #00a8ff;
+    color:#1ED760;
     text-align: center;
   }
-  
+  .button{
+    background-color: #1ED760;
+  }
   #curtir{
     font-size: 30px;
     font-weight: bold;
