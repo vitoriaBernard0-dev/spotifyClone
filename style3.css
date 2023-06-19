@@ -187,6 +187,12 @@ body {
     color:#1ED760;
     text-align: center;
   }
+  #ali{
+    color: black;
+  }
+  #al{
+    color: white;
+  }
   .button{
     background-color: #1ED760;
     border-radius: 500px;
