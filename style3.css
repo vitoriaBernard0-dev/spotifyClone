@@ -129,7 +129,7 @@ body {
     background-color: #405a93;
     color: white;
     border: none;
-    border-radius: 15px;
+    border-radius: 500px;
     cursor: pointer;
     margin-top: 5px;
     display: flex;
@@ -189,6 +189,7 @@ body {
   }
   .button{
     background-color: #1ED760;
+    border-radius: 500px;
   }
   #curtir{
     font-size: 30px;
@@ -206,7 +207,7 @@ body {
     background-color: white;
     color: rgb(77, 77, 77) ;
     border: 2px solid gray;
-    border-radius: 15px;
+    border-radius: 500px;
     cursor: pointer;
     margin-top: 5px;
     display: flex;
