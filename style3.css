@@ -175,6 +175,11 @@ body {
     text-align: center;
   }
   
+  #curtir{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+  }
   p {
     color: #666;
     font-size: 13px;
