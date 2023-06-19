@@ -1,0 +1,182 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+  }
+  
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    font-size: medium;
+    color: rgb(164, 152, 152);
+    flex-direction: column;
+  }
+  
+  .rodape {
+    margin: 10px;
+  }
+  
+  .imageapp {
+    width: 132px;
+    height: 40px;
+    align-items: center;
+  }
+  
+  #rodape{
+    display: flex;
+  }
+  
+  #rodape-footer{
+    display: flex;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+  }
+  
+  .linhas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .separador {
+    height: 1px;
+    background-color: #666;
+    width: 100px;
+    margin: 20px;
+  }
+  
+  .container {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #00a8ff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    justify-content: center;
+  }
+  
+  #footer {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .forgot-password {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .senha {
+    align-items: center;
+    text-align: center;
+  }
+  
+  
+  
+  .forgot-password a {
+    color: #666;
+    text-decoration: none;
+  }
+  
+  .facebook-button {
+    width: 100%;
+    padding: 5px;
+    background-color: #00a8ff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .facebook-button {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .logo {
+    width: 200px;
+    justify-content: center;
+    display: flex;
+     margin-left: 50px;
+  }
+  
+  .cadastro {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-size: small;
+  }
+  
+  .cel {
+    width: 350px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #00a8ff;
+    text-align: center;
+  }
+  
+  p {
+    color: #666;
+    font-size: 13px;
+  }
+
